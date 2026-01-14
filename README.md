@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Kashish Goswami  
 
-<!--
-**Kashish-Goswami/Kashish-Goswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Programmer with experience in multiple languages  
+🚀 Focused on building skills through practice and projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+**Languages:**
+- Java  
+- Python  
+- C  
+- C++  
+
+**Web:**
+- HTML  
+- CSS  
+
+**Tools:**
+- Git & GitHub  
+
+---
+
+## 📌 What You'll Find on My GitHub
+- Data Structures & Algorithm practice  
+- Core programming concepts  
+- Web development basics  
+- Learning-based projects  
+
+---
+
+## 🎯 Current Focus
+- Improving problem-solving using DSA  
+- Writing clean & optimized code  
+- Becoming consistent on GitHub  
+
+---
+
+## 📊 GitHub Stats
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-Goswami&show_icons=true&theme=tokyonight)
+
+⭐ Thanks for visiting my profile!
