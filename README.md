@@ -1,46 +1,54 @@
 # Hi 👋, I'm Kashish Goswami  
 
 🎓 Computer Science Student  
-💻 Programmer with experience in multiple languages  
-🚀 Focused on building skills through practice and projects  
+📊 Aspiring Data Analyst  
+💻 Strong foundation in programming & problem-solving  
+🚀 Learning data-driven decision making through hands-on practice  
 
 ---
 
 ## 🧠 Technical Skills
-**Languages:**
-- Java  
-- Python  
-- C  
-- C++  
 
-**Web:**
+**Programming Languages:**
+- Python  
+- Java  
+- C / C++  
+
+**Data Analysis (Learning & Practicing):**
+- Python (NumPy, Pandas – learning)
+- Data Cleaning & Exploration
+- Basic Statistics
+- Data Visualization (Matplotlib – learning)
+
+**Web Basics:**
 - HTML  
 - CSS  
 
-**Tools:**
+**Tools & Platforms:**
 - Git & GitHub  
+- VS Code  
 
 ---
 
 ## 📌 What You'll Find on My GitHub
 - Data Structures & Algorithm practice  
-- Core programming concepts  
-- Web development basics  
-- Learning-based projects  
+- Python programs for logic building  
+- Beginner data analysis with projects   
+- Learning-based and academic projects  
 
 ---
 
 ## 🎯 Current Focus
-- Improving problem-solving using DSA  
-- Writing clean & optimized code  
-- Becoming consistent on GitHub  
+- Building strong Python fundamentals for data analysis  
+- Learning Pandas, NumPy & data visualization  
+- Improving analytical thinking & consistency on GitHub  
 
 ---
 
 ## 📊 GitHub Stats
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-Goswami&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1)
 
-                    
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kashish-Goswami&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 ⭐ Thanks for visiting my profile!
