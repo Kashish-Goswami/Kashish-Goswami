@@ -38,7 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-Goswami&show_icons=true&theme=tokyonight).
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kashish-Goswami&show_icons=true&theme=tokyonight&cache_seconds=86400&v=1)
+
                     
 
 
